@@ -11,5 +11,6 @@
         {"label": "About", "icon": "info", "path": "/about"},
         {"label": "Help", "icon": "question", "path": "/help"}
     ],
-    "gaTrackingID": "UA-148268745-1"
+    "gaTrackingID": "UA-148268745-1",
+    "ref": "4dd1113"
 }
